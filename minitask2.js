@@ -31,7 +31,7 @@ function thenManualAscii () {
         })
 }
 
-// fetch async-await dan toLowerCast()
+// update fetch async-await dan toLowerCast()
 async function awaittoLowerCase (){
     try {
         const response = await fetch(url);
